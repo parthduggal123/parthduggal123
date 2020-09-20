@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**parthduggal123/parthduggal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I am Parth Duggal.I am an aspiring engineer and I like to learn new things that fascinate me. 
 
